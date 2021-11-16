@@ -1,4 +1,4 @@
-Olá! Me chamo Mariana 👋🏽👩🏽‍💻
+<h1> Olá! Me chamo Mariana 👋🏽👩🏽‍💻</h1>
 
 <div align="center">
   <a href="https://github.com/marianabpacheco">
