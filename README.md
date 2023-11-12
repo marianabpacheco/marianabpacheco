@@ -1,6 +1,6 @@
 ## Olá! Me chamo Mariana 👋
 
-- 💻 Sou desenvolvedora back-end, desenvolvendo projetos com Java e Spring Boot
+- 💻 Sou desenvolvedora fullstack, desenvolvendo projetos com Java, Javascript e Spring Boot e outras tecnologias
 - 📚 Concluí o curso de Desenvolvimento Web Full Stack do curso Certified Tech Developer, da Digital House e atualmente curso Análise e Desenvolvimento de Sistemas - Unisinos
 - ✨ Sempre disposta a aprender novas linguagens e ferramentas
   
